@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{91A72A96-AA55-413D-857D-FE5976047C6D}" SchemaVersion="119">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{91A72A96-AA55-413D-857D-FE5976047C6D}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Time_of_Day" ID="{271EF7D9-77EC-453E-BE6E-FDF4C3D9D9ED}"/>
+				<GameParameter Name="MenuSlider_Master_Volume" ID="{1E2730AE-47D8-47D9-96BC-0BD15A6BC45D}"/>
+				<GameParameter Name="MenuSlider_Music_Volume" ID="{01F7082D-A90A-43A7-9663-C8934DE27F0D}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

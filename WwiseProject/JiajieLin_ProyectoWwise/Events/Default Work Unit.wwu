@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A5176079-AF0B-4054-AA50-D430C9CE20A7}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{A5176079-AF0B-4054-AA50-D430C9CE20A7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Inventory_Open" ID="{A3F74807-A9CF-4675-AEBC-E5CD1842B4A4}">
+					<ChildrenList>
+						<Action Name="" ID="{E6E9A370-FB80-405D-8B2E-BD29713D9D7D}" ShortID="991527510">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Inventory_Open" ID="{6A1B056D-70FE-4BF2-88EB-11275734E2F4}" WorkUnitID="{4CA36977-0C1E-4905-BFEA-08FB4B286424}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Ambient_Forest" ID="{7221ED4B-A16C-4889-BB7B-C7F62BB5E21A}">
+					<ChildrenList>
+						<Action Name="" ID="{313ED5A7-C970-4137-8578-1DA0661D490C}" ShortID="102748949">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambient_Forest" ID="{8974EE71-C13E-4740-B9BC-7C795BB9C27A}" WorkUnitID="{4CA36977-0C1E-4905-BFEA-08FB4B286424}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Player_Footstep" ID="{324A09E7-DC67-438A-B93D-128EEF11796B}">
+					<ChildrenList>
+						<Action Name="" ID="{5838BAB8-45F4-40FF-98F3-0184536C7D88}" ShortID="473260376">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player_Footstep" ID="{9A148663-CE63-46DD-886B-008D34CD7396}" WorkUnitID="{4CA36977-0C1E-4905-BFEA-08FB4B286424}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Set_Switch_Grass" ID="{9A09A5AB-4246-4233-8304-F5155D616AA3}">
+					<ChildrenList>
+						<Action Name="" ID="{A889ACDD-AAA6-4F70-8948-AB5F3F615FC1}" ShortID="871782229">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="23"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Grass" ID="{3F73E164-0150-4DE1-BE38-4EF75E70643B}" WorkUnitID="{BC993FAA-CF1E-441E-964B-C80422042407}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Set_Switch_Stone" ID="{BD14E6BE-98A2-46D6-B9D5-33D5F0505E10}">
+					<ChildrenList>
+						<Action Name="" ID="{4BAF7D66-08E0-43F9-8F62-BCF479813B61}" ShortID="270897296">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="23"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Stone" ID="{807C3EB0-2D5F-4FD8-85C3-8DA115807A10}" WorkUnitID="{BC993FAA-CF1E-441E-964B-C80422042407}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Set_Switch_Wood" ID="{479F01D2-1010-41B9-A597-759AF692969C}">
+					<ChildrenList>
+						<Action Name="" ID="{4803A3BB-7DF6-4CC1-857C-E0B8DBA51B31}" ShortID="198538660">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="23"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wood" ID="{6C830D2B-2292-49E5-8B00-7EC50E0703BA}" WorkUnitID="{BC993FAA-CF1E-441E-964B-C80422042407}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

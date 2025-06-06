@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	6451625	Play_Inventory_Open			\Default Work Unit\Play_Inventory_Open	
+	1513039054	Play_Ambient_Forest			\Default Work Unit\Play_Ambient_Forest	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	380169302	Inventory_Open	D:\Github\Audio_PR-CTICA_4_Wwise\WwiseProject\JiajieLin_ProyectoWwise\.cache\Windows\SFX\BAS_Inventory_Open_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Inventory_Open		45400
+	777739867	amb_forest_night_background_loop_02	D:\Github\Audio_PR-CTICA_4_Wwise\WwiseProject\JiajieLin_ProyectoWwise\.cache\Windows\SFX\amb_forest_night_background_loop_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Forest\amb_forest_night_background_loop_02		4343896
+	845136366	BAS_amb_forest_day_background_loop_01	D:\Github\Audio_PR-CTICA_4_Wwise\WwiseProject\JiajieLin_ProyectoWwise\.cache\Windows\SFX\BAS_amb_forest_day_background_loop_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Forest\BAS_amb_forest_day_background_loop_01		27990112
+

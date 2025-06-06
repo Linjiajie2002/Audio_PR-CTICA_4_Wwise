@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7A2D96C4-54CB-4E91-9549-01B1A4841FC8}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{7A2D96C4-54CB-4E91-9549-01B1A4841FC8}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main_SoundBank" ID="{3169EBD8-7696-467A-89B5-886ACFA39E33}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Set_Switch_Wood" ID="{479F01D2-1010-41B9-A597-759AF692969C}" WorkUnitID="{A5176079-AF0B-4054-AA50-D430C9CE20A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Set_Switch_Grass" ID="{9A09A5AB-4246-4233-8304-F5155D616AA3}" WorkUnitID="{A5176079-AF0B-4054-AA50-D430C9CE20A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Inventory_Open" ID="{A3F74807-A9CF-4675-AEBC-E5CD1842B4A4}" WorkUnitID="{A5176079-AF0B-4054-AA50-D430C9CE20A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Set_Switch_Stone" ID="{BD14E6BE-98A2-46D6-B9D5-33D5F0505E10}" WorkUnitID="{A5176079-AF0B-4054-AA50-D430C9CE20A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Ambient_Forest" ID="{7221ED4B-A16C-4889-BB7B-C7F62BB5E21A}" WorkUnitID="{A5176079-AF0B-4054-AA50-D430C9CE20A7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
